@@ -20,10 +20,6 @@
     ]
   },
   "flex-layout.col#right": {
-    "props": {
-      "verticalAlign": "middle",
-      "preventVerticalStretch": true
-    },
     "children": [
       "product-name",
       "product-identifier.product",
@@ -38,11 +34,5 @@
       "product-quantity",
       "shipping-simulator"
     ]
-  },
-  "product-price": {
-    "props": {
-      "showSavings": true,
-      "showListPrice": true
-    }
   }
 }
